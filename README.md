@@ -1,5 +1,5 @@
 Knight's Tour Visualizer with PyQt5
-Chess Knight
+![Vacuum Agent](knight.png)
 تطبيق رسومي تفاعلي لحل مشكلة جولة الفارس (Knight's Tour) على رقعة الشطرنج باستخدام Python و PyQt5
 هذا البرنامج يتيح لك تجربة ومقارنة خوارزميات بحث مختلفة لحل مشكلة Knight's Tour، مع أنيميشن جميل لحركة الفارس على الرقعة، وعرض عدد العقد الموسعة، والتحكم في السرعة.
 clipartmax.comWhite Chess Knight Icon - Free Transparent PNG Clipart Images Download
@@ -51,4 +51,5 @@ PyQt5
 MIT License - يمكنك استخدامه وتعديله بحرية.
 
 استمتع بمشاهدة الفارس وهو يجول الرقعة! ♞✨
+
 إذا أعجبك المشروع، لا تنسَ إعطاء ⭐ على GitHub!
